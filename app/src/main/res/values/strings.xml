@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="modo_escuro">Modo Escuro</string>
+    <string name="modo_claro">Modo Claro</string>
+    <string name="modo_escuro_ativado">Modo Claro Ativado</string>
+    <string name="modo_claro_ativado">Modo Escuro Ativado</string>
+    <string name="guardarNaMemoria">M+</string>
+    <string name="removerDaMemoria">M-</string>
+    <string name="resetarMemoria">MR</string>
+    <string name="apagarTudo">AC</string>
+    <string name="deletarUltimo">⌫</string>
+    <string name="um">1</string>
+    <string name="dois">2</string>
+    <string name="tres">3</string>
+    <string name="quatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="sete">7</string>
+    <string name="oito">8</string>
+    <string name="nove">9</string>
+    <string name="zero">0</string>
+    <string name="multiplicacao">X</string>
+    <string name="divisao">÷</string>
+    <string name="subtracao">-</string>
+    <string name="adicao">+</string>
+    <string name="decimal">.</string>
+    <string name="igual">=</string>
+</resources>
